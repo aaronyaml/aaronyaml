@@ -23,7 +23,7 @@ Your coding agents, one inbox. A self-hosted hub that routes each request to Cla
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
-### GaffSwipe
+### [GaffSwipe](https://gaffswipe.co.uk)
 Tinder for UK student accommodation. Swipe through listings, save a watchlist, message landlords. Native iOS + Android, pre-launch. *(Private repo.)*
 
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
